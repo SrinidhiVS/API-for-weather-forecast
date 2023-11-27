@@ -45,9 +45,10 @@
 - If an error occurs while fetching data from the weather API, a 500 Internal Server Error response is sent with an error message
   
 8\**.Snapshots**
-"C:\Users\srinidhi v s\OneDrive\Pictures\Screenshots\Screenshot 2023-11-27 180213.png"
-"C:\Users\srinidhi v s\OneDrive\Pictures\Screenshots\Screenshot 2023-11-27 180245.png"
-"C:\Users\srinidhi v s\OneDrive\Pictures\Screenshots\Screenshot 2023-11-27 180326.png"
-"C:\Users\srinidhi v s\OneDrive\Pictures\Screenshots\Screenshot 2023-11-27 180316.png"
-"C:\Users\srinidhi v s\OneDrive\Pictures\Screenshots\Screenshot 2023-11-27 181158.png"
-"C:\Users\srinidhi v s\OneDrive\Pictures\Screenshots\Screenshot 2023-11-27 181224.png"
+![Screenshot 2023-11-27 180213](https://github.com/SrinidhiVS/API-for-weather-forecast/assets/125716129/8b5f6a8f-0197-44ae-8013-f7cf932f2e52)
+![Screenshot 2023-11-27 180245](https://github.com/SrinidhiVS/API-for-weather-forecast/assets/125716129/cfc446d1-2bc4-4d09-883d-c4e4ff9073fc)
+![Screenshot 2023-11-27 180326](https://github.com/SrinidhiVS/API-for-weather-forecast/assets/125716129/7eb17f82-69cf-4624-936d-d1c1ac1173a4)
+![Screenshot 2023-11-27 180316](https://github.com/SrinidhiVS/API-for-weather-forecast/assets/125716129/6ce86d68-a8de-43a1-a147-20de6f0f767d)
+![Screenshot 2023-11-27 181158](https://github.com/SrinidhiVS/API-for-weather-forecast/assets/125716129/7b89000d-a492-4f2a-8b71-a48d3a01cc5a)
+![Screenshot 2023-11-27 181224](https://github.com/SrinidhiVS/API-for-weather-forecast/assets/125716129/072e8882-e9f3-4d1d-92ea-c645aaf9db6e)
+
