@@ -43,3 +43,11 @@
 7\**. Error Handling**
 
 - If an error occurs while fetching data from the weather API, a 500 Internal Server Error response is sent with an error message
+  
+8\**.Snapshots**
+"C:\Users\srinidhi v s\OneDrive\Pictures\Screenshots\Screenshot 2023-11-27 180213.png"
+"C:\Users\srinidhi v s\OneDrive\Pictures\Screenshots\Screenshot 2023-11-27 180245.png"
+"C:\Users\srinidhi v s\OneDrive\Pictures\Screenshots\Screenshot 2023-11-27 180326.png"
+"C:\Users\srinidhi v s\OneDrive\Pictures\Screenshots\Screenshot 2023-11-27 180316.png"
+"C:\Users\srinidhi v s\OneDrive\Pictures\Screenshots\Screenshot 2023-11-27 181158.png"
+"C:\Users\srinidhi v s\OneDrive\Pictures\Screenshots\Screenshot 2023-11-27 181224.png"
